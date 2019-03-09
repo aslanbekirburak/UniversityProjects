@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meta xmlns="http://exist-db.org/xquery/repo">
+    <description>eskin</description>
+    <author>eskin</author>
+    <author>eskin</author>
+    <website/>
+    <status>alpha</status>
+    <license>GNU-LGPL</license>
+    <copyright>true</copyright>
+    <type>application</type>
+    <target>eskin</target>
+    <prepare>pre-install.xql</prepare>
+    <finish/>
+    <permissions user="eskin" group="dba" mode="rw-rw-r--"/>
+<deployed>2018-01-04T19:07:09.578+03:00</deployed>
+</meta>

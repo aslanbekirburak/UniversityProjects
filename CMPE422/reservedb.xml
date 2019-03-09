@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<reservedb>
+
+<reserve>
+        <customerid>ada</customerid>
+        <name/>
+        <phonenumber>asd1s</phonenumber>
+        <process>
+            <dateentry>dsa</dateentry>
+            <datefinish>dsa</datefinish>
+            <numroom>dsa</numroom>
+        </process>
+    </reserve>
+    <reserve>
+        <customerid>ma</customerid>
+        <name/>
+        <phonenumber>ş</phonenumber>
+        <process>
+            <dateentry>ş</dateentry>
+            <datefinish>m</datefinish>
+            <numroom>m</numroom>
+        </process>
+    </reserve>
+    <reserve>
+        <customerid>ı</customerid>
+        <name/>
+        <phonenumber>0</phonenumber>
+        <process>
+            <dateentry>*</dateentry>
+            <datefinish>*</datefinish>
+            <numroom>0</numroom>
+        </process>
+    </reserve>
+</reservedb>
